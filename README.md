@@ -8,8 +8,8 @@ Mobile UI<br/>
 ## Cloning the project
 
 ```
-$ git clone https://github.com/lechatthecat/JavaChatBoardSpa.git
-$ cd JavaChatBoard
+$ git clone https://github.com/lechatthecat/JavaChatSpa.git
+$ cd JavaChatSpa
 ```
 
 ## Prepare the DB

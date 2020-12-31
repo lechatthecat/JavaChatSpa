@@ -8,6 +8,8 @@ Mobile UI<br/>
 There is "sign in" in the app.
 This app is using only Vue.js. jQuery is NOT included.
 
+non-login users cannot comment in boards and cannot create boards.
+
 ## Cloning the project
 
 ```

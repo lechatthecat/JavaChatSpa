@@ -52,6 +52,7 @@ $ npm run watch
 (Use "$ npm run production" for production.)
 ```
 
+And complete other necessary information in the application.properties.
 Now the app should work. If you are using vscode, press on F5 in vscode after wring launch.json as follows:
 
 ```json

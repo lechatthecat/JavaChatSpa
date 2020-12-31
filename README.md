@@ -12,7 +12,7 @@ $ git clone https://github.com/lechatthecat/JavaChatBoardSpa.git
 $ cd JavaChatBoard
 ```
 
-## Preparet the DB
+## Prepare the DB
 
 At first, install postgresql, do the initial setup and login into it.
 

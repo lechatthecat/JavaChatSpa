@@ -52,6 +52,7 @@ $ npm run watch
 Now the app should work. If you are using vscode, press on F5 in vscode after wring launch.json as follows:
 
 ```json
+{
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387

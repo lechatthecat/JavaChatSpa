@@ -5,6 +5,8 @@ Desktop UI<br/>
 Mobile UI<br/>
 <img src="https://github.com/lechatthecat/JavaChatSpa/blob/master/mobile_chat.png" width="50%">
 
+There is "sign in" in the app too.
+
 ## Cloning the project
 
 ```

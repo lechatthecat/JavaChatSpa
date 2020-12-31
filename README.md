@@ -9,6 +9,7 @@ There is "sign in" in the app.
 This app is using only Vue.js. jQuery is NOT included.
 
 non-login users cannot comment in boards and cannot create boards.
+login users can comment and create boards from the bottom of side menu.
 
 ## Cloning the project
 

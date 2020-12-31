@@ -5,7 +5,7 @@ Desktop UI<br/>
 Mobile UI<br/>
 <img src="https://github.com/lechatthecat/JavaChatSpa/blob/master/mobile_chat.png" width="50%">
 
-There is "sign in" in the app too.
+There is "sign in" in the app.
 This app is using only Vue.js. jQuery is NOT included.
 
 ## Cloning the project

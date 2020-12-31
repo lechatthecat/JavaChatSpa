@@ -1,6 +1,8 @@
 ## Chat app (web app) that works on desktop/mobile UI
 
+Desktop UI
 <img src="https://github.com/lechatthecat/JavaChatSpa/blob/master/chat_picture.png" width="50%"><br/>
+Mobile UI
 <img src="https://github.com/lechatthecat/JavaChatSpa/blob/master/mobile_chat.png" width="50%">
 
 ## Cloning the project

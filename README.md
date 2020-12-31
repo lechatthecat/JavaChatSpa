@@ -1,4 +1,4 @@
-## Chat app (web app) that works on desktop/mobile UI
+## SPA Chat app (web app) that works on desktop/mobile UI
 
 Desktop UI<br/>
 <img src="https://github.com/lechatthecat/JavaChatSpa/blob/master/chat_picture.png" width="50%"><br/>
@@ -6,6 +6,7 @@ Mobile UI<br/>
 <img src="https://github.com/lechatthecat/JavaChatSpa/blob/master/mobile_chat.png" width="50%">
 
 There is "sign in" in the app too.
+This app is using Vue.js. jQuery is NOT included.
 
 ## Cloning the project
 

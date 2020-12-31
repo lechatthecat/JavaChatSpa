@@ -157,16 +157,6 @@ export default {
     }
   },
   methods: {
-    shouldAdBeDisplayed(index) {
-      return (index !==0 && index%this.adFrequency===0);
-    },
-    addGoogleAd(msg) {
-      this.$nextTick(() => {
-        // Google ad
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        msg.isAdShowed = true;
-      });
-    },
     checkIfDeleteComment(msg) {
       this.modalBody = "Are you sure you will delete this message?:\n\r" + msg.response + "\n\rThis cannot be undone.";
       this.hasButton = true;
